@@ -2,14 +2,14 @@
 
 **Khemar**
 
-Walls of Khemar:
+**Walls of Khemar**
 
-Tomb of the Sun King:
+**Tomb of the Sun King**
 
-Temple of the Sphinx:
+**Temple of the Sphinx**
 
-Valley of Osiris:
+**Valley of Osiris**
 
-Sands of Anubis:
+**Sands of Anubis**
 
-Pyramid of Pharaoh’s Fury:
+**Pyramid of Pharaoh’s Fury**

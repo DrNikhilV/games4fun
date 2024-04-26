@@ -1,8 +1,8 @@
 # Locations
 
-**Khemar**
+# Khemar
 Khemar, a traditional Egyptian town nestled amidst the vast desert, exudes an aura of ancient mystique and resilience. With its modest population of 150 townsfolk, Khemar stands as a testament to the enduring spirit of its people amidst the harsh elements of blistering sandstorms and golden dunes. Once renowned for its prosperity and tranquility, Khemar now finds itself shrouded in darkness and uncertainty due to the Rebellion of Gods, which has unleashed plagues and devastation across Egypt. Despite its struggles, Khemar remains a beacon of hope, with its inhabitants clinging to their traditions and banding together in the face of adversity. Amidst the shifting sands of fate, Khemar stands as a symbol of resilience, awaiting the dawn of a new era of peace and prosperity.
----
+
 **Walls of Khemar**
 The Walls of Khemar, standing stoically on the outskirts of the town, are a testament to its ancient history and the fortitude of its people. These weathered and half-broken ruins once formed the protective barrier surrounding Khemar, serving as the town's first line of defense against external threats. Now, time and neglect have taken their toll, with only remnants of the once-mighty walls remaining. Amidst the crumbling stones and faded hieroglyphics, there stands a solitary castle or stronghold, a lone sentinel watching over the desolate landscape. This last bastion of defense serves as a reminder of Khemar's resilience in the face of adversity, a beacon of hope amidst the desolation of the surrounding desert. Despite its dilapidated state, the Walls of Khemar stand as a silent guardian, preserving the town's ancient heritage and safeguarding its inhabitants against the encroaching darkness.
 ---

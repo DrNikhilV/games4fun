@@ -1,4 +1,4 @@
-Storyline:
+# Storyline:
 
 The town of Khemar is situated in the middle of nowhere. A traditional Egyptian town, surrounded by blistering sandstorms and golden dunes is home to 150 townsfolk. The weather here is simple, harsh summers and occasional rains. It was not a rich and flourishing town, but once known for its prosperity and calm. But ever since the Rebellion of Gods started, the town and its people plunged into a period of darkness. The lands all over Egypt was ravaged by constant plagues. Death and Destruction came in the form of pests, monsters, plagues, and darkness. The Sun seemed to get dimmer each day.
 

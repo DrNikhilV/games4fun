@@ -73,7 +73,7 @@ class SlidingPuzzle:
         self.new_game_button.pack(pady=5)
 
     def shuffle_board(self):
-        moves = 0
+        moves = 1000
         for _ in range(moves):
             possible_moves = self.get_possible_moves()
             move = random.choice(possible_moves)

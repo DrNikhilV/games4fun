@@ -22,6 +22,8 @@ class SlidingPuzzle:
         self.root.bind("<Key>", self.handle_keyboard)
         
         self.shuffle_board()
+        self.moves = 0  # Reset moves after shuffling
+        self.move_label.config(text="Moves: 0")  # Update display
         self.update_board()
 
     def load_image(self, image_path):
@@ -77,7 +79,7 @@ class SlidingPuzzle:
         for _ in range(moves):
             possible_moves = self.get_possible_moves()
             move = random.choice(possible_moves)
-            self.make_move(move[0], move[1], update_gui=False)
+            self.make_move(move[0], move[1], update_gui=False, count_move=False)  # Don't count shuffling moves
 
     def get_possible_moves(self):
         moves = []
@@ -88,15 +90,16 @@ class SlidingPuzzle:
                 moves.append((new_row, new_col))
         return moves
 
-    def make_move(self, row, col, update_gui=True):
+    def make_move(self, row, col, update_gui=True, count_move=True):
         if (row, col) in self.get_possible_moves():
             empty_row, empty_col = self.empty_cell
             self.current_state[empty_row][empty_col] = self.current_state[row][col]
             self.current_state[row][col] = self.size * self.size - 1
             self.empty_cell = (row, col)
             
-            self.moves += 1
-            self.move_label.config(text=f"Moves: {self.moves}")
+            if count_move:  # Only increment moves for player actions
+                self.moves += 1
+                self.move_label.config(text=f"Moves: {self.moves}")
             
             if update_gui:
                 self.update_board()

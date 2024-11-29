@@ -15,7 +15,7 @@ class SlidingPuzzle:
         self.moves = 0
         
         # Load image tiles for the puzzle
-        self.load_image("Games\Sliding_Puzzle\puzzle_image.png")
+        self.load_image("Sliding_Puzzle\puzzle_image.png")
         
         # Set initial empty cell to bottom-right corner
         self.empty_cell = (self.size - 1, self.size - 1)
